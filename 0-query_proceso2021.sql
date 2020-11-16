@@ -1,5 +1,5 @@
 ############################################
-####	Base Difusión Proceso 2021	####
+####	Base Difusión Proceso 2021	#####
 ############################################
 drop table if exists AlbertoC.ba_alumnos_carrera_difusion;
 create table AlbertoC.ba_alumnos_carrera_difusion as
